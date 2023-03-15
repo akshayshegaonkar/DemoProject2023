@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>My Name is Akshay- Full Stac Developer</h2>
+<h2>My Name is Akshay- Full Stack Developer</h2>
 </body>
 </html>
